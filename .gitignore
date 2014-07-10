@@ -33,6 +33,7 @@ ehthumbs.db
 *.Trashes
 
 
+
 #==================#
 #    Log files     #
 #==================#
@@ -102,3 +103,5 @@ wp-content/*
 # wp-content/cache/
 # wp-content/advanced-cache.php
 # wp-content/wp-cache-config.php
+
+!README.md
